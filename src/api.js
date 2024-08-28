@@ -6,7 +6,7 @@ async function getToken() {
     method: 'POST',
     data: {
       query: process.env.QUERY_ID,
-      referralToken: 'vTHusRz4j0', // changeable
+      referralToken: 'UHkEEls7Oy', // changeable
     },
   });
 
