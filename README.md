@@ -24,13 +24,13 @@ Blum Airdrop Bot automates interactions with the Blum airdrop platform. It inclu
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/dante4rt/blum-airdrop-bot.git
+    git clone https://github.com/KAF241/blum-airdrop.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd blum-airdrop-bot
+    cd blum-airdrop
     ```
 
 3. **Install dependencies:**
@@ -51,7 +51,7 @@ Blum Airdrop Bot automates interactions with the Blum airdrop platform. It inclu
 
    - To find your `QUERY_ID`, follow these steps:
      1. Open [Web Telegram](https://web.telegram.org) in your browser.
-     2. Open the [Blum Bot](https://t.me/BlumCryptoBot/app?startapp=ref_vTHusRz4j0).
+     2. Open the [Blum Bot](https://t.me/blum/app?startapp=ref_UHkEEls7Oy).
      3. Open DevTools (right-click on the page and select "Inspect" or press `F12`).
      4. Go to the "Application" tab, then "Local Storage", and choose `https://telegram.blum.codes`.
      5. Find `QUERY_ID`, copy its value.
