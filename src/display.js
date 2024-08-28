@@ -3,7 +3,7 @@ function displayHeader() {
   console.log('========================================'.cyan);
   console.log('=        🌟 Blum Airdrop Bot 🌟        ='.cyan);
   console.log('=     Created by HappyCuanAirdrop      ='.cyan);
-  console.log('=    https://t.me/HappyCuanAirdrop     ='.cyan);
+  console.log('=    Presented to you by Rajnohtkaf     ='.cyan);
   console.log('========================================'.cyan);
   console.log();
 }
